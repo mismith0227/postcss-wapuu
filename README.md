@@ -1,5 +1,11 @@
 # postcss-wapuu
 
+## install
+
+```
+npm install postcss-wapuu
+```
+
 ## usage
 
 ```

@@ -1,22 +1,23 @@
 {
-  "name": "postcss-halloween",
+  "name": "postcss-wapuu",
   "version": "1.0.0",
-  "description": "",
+  "description": "PostCSS plugin for Wapuu",
+  "keywords": ["postcss", "css", "postcss-plugin", "wapuu"],
+  "license": "GPL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mismith0227/postcss-halloween.git"
+    "url": "git+https://github.com/mismith0227/postcss-wapuu.git"
   },
-  "keywords": [],
-  "author": "",
+  "author": "mismith0227",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mismith0227/postcss-halloween/issues"
+    "url": "https://github.com/mismith0227/postcss-wapuu/issues"
   },
-  "homepage": "https://github.com/mismith0227/postcss-halloween#readme",
+  "homepage": "https://github.com/mismith0227/postcss-wapuu#readme",
   "dependencies": {
     "postcss": "^5.2.3"
   }
