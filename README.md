@@ -1,4 +1,4 @@
-# postcss-wapuu
+# postcss-wapuu [![license](https://img.shields.io/github/license/mismith0227/postcss-wapuu.svg?maxAge=2592000)](https://github.com/mismith0227/postcss-wapuu/blob/master/license.txt)
 
 ## install
 
