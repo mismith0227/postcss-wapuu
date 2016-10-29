@@ -10,13 +10,14 @@ npm install postcss-wapuu
 
 ```
 var postcss = require('gulp-postcss');
-var wapuu = require("postcss-wapuu");
 
 gulp.task('styles', function() {
   return gulp.src([
     'src/css/style.css',
   ])
-  .pipe(postcss([wapuu]))
+  .pipe(postcss([
+      require("postcss-wapuu")
+    ]))
   .pipe(gulp.dest('build/css'))
 });
 ```
